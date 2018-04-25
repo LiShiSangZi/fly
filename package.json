@@ -1,0 +1,8 @@
+{
+  "name": "fly",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:LiShiSangZi/fly.git",
+  "author": "gogocorw <gogocrow@163.com>",
+  "license": "MIT"
+}
